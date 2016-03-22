@@ -30,6 +30,18 @@ You'll be dusting off your [Flight Booker project](/ruby-on-rails/building-advan
 * [Marina Sergeyeva's solution](https://github.com/imousterian/FlightBooker) | [View in browser](https://one-way-ticket.herokuapp.com/)
 * [Aleksandar's solution](https://github.com/Rodic/private-events)
 * [Dominik Stodolny's solution](https://github.com/dstodolny/odin-flight-booker)
+* [Kevin Mulhern's solution](https://github.com/KevinMulhern/flight_booker) | [View in browser](https://odin-booker.herokuapp.com/)
+* [AtActionPark's solution](https://github.com/AtActionPark/odin_flight_booker) 
+* [Andrej Dragojevic's solution](https://github.com/antrix1/flight-booker) | [View in browser](https://blooming-mountain-4761.herokuapp.com/)
+* [dchen71's solution](https://github.com/dchen71/odin-flight-booker) | [View in browser](http://true-syrup-4655.herokuapp.com/)
+* [Matias Pan's solution](https://github.com/kriox26/flight-booker)
+* [Florian Mainguy's solution](https://github.com/florianmainguy/theodinproject/tree/master/rails/flight-booker)
+* [Hassan Mahmoud's solution](https://github.com/HassanTC/Flight-Booker)
+* [Radi Totev's solution](https://github.com/raditotev/flight_booker)
+* [cdouglass's solution](https://github.com/cdouglass/odin-project-exercises/tree/master/rails/flight-booker)
+* [Luke Walker's solution](https://github.com/ubershibs/odin-flight-booker) | [View in browser](https://secure-sands-80209.herokuapp.com)
+* [srashidi's solution](https://github.com/srashidi/Advanced_Forms/tree/master/odin-flight-booker)
+* [Scott Bobbitt's solution](https://github.com/sco-bo/flight-booker) | [View in Browser](https://radiant-fortress-17197.herokuapp.com/)
 * Add your solution above this line!
 
 ## Additional Resources
@@ -38,6 +50,5 @@ You'll be dusting off your [Flight Booker project](/ruby-on-rails/building-advan
 
 
 * [`letter_opener` docs](https://github.com/ryanb/letter_opener)
-* [Creating a Mailer in Rails 3](http://railscasts.com/episodes/206-action-mailer-in-rails-3) (should still work in Rails 4).
 * [Setting up email: Rails, Heroku, SendGrid, Figaro](http://howilearnedrails.wordpress.com/2014/02/25/setting-up-email-in-a-rails-4-app-with-action-mailer-in-development-and-sendgrid-in-production-using-heroku/comment-page-1/#comment-79)
 

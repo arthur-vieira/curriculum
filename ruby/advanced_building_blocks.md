@@ -39,7 +39,7 @@ This lesson gets more into the topics you may have been shaky on before like *Co
         * `#times`?
     * What's the difference between `while` and `until`?
     * How do you stop a loop?
-    * How to you skip to the next iteration of a loop?
+    * How do you skip to the next iteration of a loop?
     * How would you start the loop over again?
     * What are the (basic) differences between situations when you would use `while` vs `#times` vs `#each`?
     * What does nesting loops mean and when would you use it?
@@ -132,6 +132,10 @@ Make sure you can do the following quizzes from [Code Quizzes](http://www.codequ
 3. [Quiz #3](http://www.codequizzes.com/learn-ruby/variable-scope-methods)
 4. [Quiz #4](http://www.codequizzes.com/learn-ruby/symbols-array-methods-hashes)
 5. [Quiz #6](http://www.codequizzes.com/learn-ruby/iteration-nested-data-structures) 
+
+## (Optional) Extra Practice
+
+Complete the [Neo Ruby Koans](http://rubykoans.com/) exercises. You have to complete/debug the code it provides until it passes the tests before you can go on with the next exercise (TDD approach). 
 
 ## Additional Resources
 

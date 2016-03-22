@@ -38,11 +38,39 @@ You'll build a simple binary tree data structure from some arbitrary input and a
 * [Aleksandar's solution](https://github.com/Rodic/Odin-Ruby-Projects/blob/master/Projects:%20Basic%20Data%20Structures%20and%20Algorithms/lib/btree.rb)
 * [John Quarles' solution](https://github.com/johnwquarles/Ruby-binary-trees-knights-travails/blob/master/binary_tree.rb)
 * [Kate McFaul's solution](https://github.com/craftykate/odin-project/blob/master/Chapter_03-Advanced_Ruby/data_structures_and_algorithms/binary_search_tree.rb)
-* [Artur Janik's solution](https://github.com/ArturJanik/basicdatastr1/blob/master/p1-tree.rb)
+* [Artur Janik's solution](https://github.com/ArturJanik/TOPRuby/blob/master/Project7/BinTree/p1-tree.rb)
 * [Jason Matthews' solution](https://github.com/fo0man/project_data_structures/blob/master/BinaryTree.rb)
 * [Dominik Stodolny's solution](https://github.com/dstodolny/binary_tree/blob/master/binary_tree.rb)
 * [Lara Finnegan's solution](https://github.com/lcf0285/algorithms/blob/master/binary_tree.rb)
 * [Frank Peelen's solution](https://github.com/FrankPeelen/Data-Structures-and-Algorithms/blob/master/binary_search_tree.rb)
+* [Brann James' solution](https://github.com/brannj/The_Odin_Project/blob/master/basic_data_structs/binary_trees.rb)
+* [ll14m4n's solution](https://github.com/ll14m4n/the-odin-project/tree/master/3_Ruby_btree-search)
+* [AtActionPark's solution](https://github.com/AtActionPark/odin_basic_data_structure/tree/master/lib)
+* [Matias Pan's solution](https://github.com/kriox26/odin_ruby/tree/master/project_data_structures/bst)
+* [Alex Chen's solution](https://github.com/Chenzilla/data_structure_practice)
+* [Mark Viola's solution](https://github.com/markviola/the-odin-project/tree/master/12-data-structures-and-algorithms/1%20-%20Searching%20Binary%20Trees)
+* [Xavier Reid's solution](https://github.com/xreid/data_structures_algorithms/tree/master/binary_tree)
+* [Dan Hoying's solution](https://github.com/danhoying/basic_data_structures_and_algorithms/blob/master/searching_binary_trees.rb)
+* [PiotrAleksander's solution](https://github.com/PiotrAleksander/Ruby/blob/master/drzewo_binarne.rb)
+* [Florian Mainguy's solution](https://github.com/florianmainguy/theodinproject/blob/master/ruby/basic-data-structures-and-algorithms/searching_binary_tree.rb)
+* [Sander Schepens's solution](https://github.com/schepens83/theodinproject.com/blob/master/ruby/project12--searching-binary-trees/searching_binary_trees.rb)
+* [Noah Prescott's solution](https://github.com/npresco/basic_data_structures_and_algorithms/blob/master/binary_search.rb)
+* [poctek's solution](https://github.com/poctek/The_Odin_Project/blob/master/Learning/CS/Algorithms/binary_tree.rb)
+* [Aviv Levinsky's solution](https://github.com/pugsiman/Ruby_challenges_and_algorithms/blob/master/Searching_Binary_Trees/sbt.rb)
+* [Giorgos's solution](https://github.com/vinPopulaire/search_binary_trees)
+* [Andrew Park's solution](https://github.com/akpark93/the_odin_project/tree/master/ruby_programming_projects/Data%20Structures)
+* [Scott Bobbitt's solution](https://github.com/sco-bo/binary_search_tree)
+* [srashidi's solution](https://github.com/srashidi/Data_Structures/blob/master/Node/node.rb)
+* [cdouglass's solution](https://github.com/cdouglass/odin-project-exercises/tree/master/ruby/data-structures-and-algorithms/binary_search_trees)
+* [James Brooks's solution](https://github.com/jhbrooks/binary-search-tree)
+* [Panashe Fundira's solution](https://github.com/munyari/odin/blob/master/learn-ruby/bfs_dfs/Node.rb)
+* [Matt Velez's solution](https://github.com/Timecrash/ruby-projects/blob/master/data-structures/binary_tree.rb)
+* [Luke Walker's solution](https://github.com/ubershibs/ruby-programming/blob/master/algorithms/binary_search.rb)
+* [Miguel Herrera's solution](https://github.com/migueloherrera/projects/blob/master/binary_trees.rb)
+* [Max Gallant's solution](https://github.com/mcgalcode/Ruby/tree/master/DataStructures)
+* [Ricardo Villegas' solution](https://github.com/claricardo/RubyBuildingBlocks/blob/master/algorithms/binary_search_tree.rb)
+* [Jack Wilde's solution](https://github.com/WildeRunner/data_structures_projects)
+* [djhart's solution](https://github.com/djhart/binary_search)
 * Add your solution above this line!
 
 
@@ -54,7 +82,7 @@ A knight in chess can move to any square on the standard 8x8 chess board from an
 
 All the possible places you can end up after one move look like this:
 
-<img src="http://www.thechesszone.com/images/articles/chess_rules_knight_moves.gif">
+<img src="http://0.tqn.com/d/chess/1/0/6/-/-/-/KnightMoves.gif">
 
 ### Your Task
 
@@ -67,7 +95,7 @@ You can think of the board as having 2-dimensional coordinates.  Your function w
   * `knight_moves([3,3],[0,0]) == [[3,3],[1,2],[0,0]]`
 
 1. Put together a script that creates a game board and a knight.
-2. Treat all the possible moves the knight could make as children in a tree.  Don't allow any moves to go off the board.
+2. Treat all possible moves the knight could make as children in a tree.  Don't allow any moves to go off the board.
 2. Decide which search algorithm is best to use for this case.  Hint: one of them could be a potentially infinite series.
 3. Use the chosen search algorithm to find the shortest path between the starting square (or node) and the ending square.  Output what that full path looks like, e.g.:
 
@@ -93,13 +121,39 @@ You can think of the board as having 2-dimensional coordinates.  Your function w
 * [Aleksandar's solution](https://github.com/Rodic/Odin-Ruby-Projects/blob/master/Projects:%20Basic%20Data%20Structures%20and%20Algorithms/lib/knight.rb)
 * [John Quarles' solution](https://github.com/johnwquarles/Ruby-binary-trees-knights-travails/blob/master/knight.rb)
 * [Kate McFaul's solution](https://github.com/craftykate/odin-project/blob/master/Chapter_03-Advanced_Ruby/data_structures_and_algorithms/knight_moves.rb)
-* [Artur Janik's solution](https://github.com/ArturJanik/basicdatastr2/blob/master/p2-knight.rb)
+* [Artur Janik's solution](https://github.com/ArturJanik/TOPRuby/blob/master/Project7/KnightsTravails/p2-knight.rb)
 * [Jason Matthews' solution](https://github.com/fo0man/project_data_structures/blob/master/knight_travails.rb)
 * [Dominik Stodolny's solution](https://github.com/dstodolny/knight_moves/blob/master/knight_moves.rb)
 * [Lara Finnegan's solution](https://github.com/lcf0285/algorithms/blob/master/knights_travails.rb)
 * [Frank Peelen's solution](https://github.com/FrankPeelen/Data-Structures-and-Algorithms/blob/master/knight_moves.rb)
+* [Brann James' solution](https://github.com/brannj/The_Odin_Project/blob/master/basic_data_structs/knight_travails.rb)
+* [ll14m4n's solution](https://github.com/ll14m4n/the-odin-project/tree/master/3_Ruby_khight-moves)
+* [AtActionPark's solution](https://github.com/AtActionPark/odin_basic_data_structure/blob/master/knight_moves.rb)
+* [Matias Pan's solution](https://github.com/kriox26/odin_ruby/tree/master/project_data_structures/knight_moves)
+* [Alex Chen's solution](https://github.com/Chenzilla/data_structure_practice)
+* [Mark Viola's solution](https://github.com/markviola/the-odin-project/tree/master/12-data-structures-and-algorithms/2%20-%20Knights%20Travail)
+* [Xavier Reid's solution](https://github.com/xreid/data_structures_algorithms/blob/master/knights_travails/knight.rb)
+* [Dan Hoying's solution](https://github.com/danhoying/basic_data_structures_and_algorithms/blob/master/knights_travails.rb)
+* [PiotrAleksander's solution](https://github.com/PiotrAleksander/Ruby/blob/master/goniec.rb)
+* [Florian Mainguy's solution](https://github.com/florianmainguy/theodinproject/blob/master/ruby/basic-data-structures-and-algorithms/knight.rb)
+* [Sander Schepens's solution](https://github.com/schepens83/theodinproject.com/blob/master/ruby/project13--knights-travails/knights_travails.rb)
+* [Noah Prescott's solution](https://github.com/npresco/basic_data_structures_and_algorithms/blob/master/knight_moves.rb)
+* [Alex Tsiras' solution](https://github.com/arialblack14/binary_trees/blob/master/knight.rb)
+* [Giorgos's solution](https://github.com/vinPopulaire/knights_travails)
+* [Scott Bobbitt's solution](https://github.com/sco-bo/knights_travails)(w/help from John Quarles' blog post)
+* [srashidi's solution](https://github.com/srashidi/Data_Structures/blob/master/Knights_Travails/knight_moves.rb)
+* [cdouglass's solution](https://github.com/cdouglass/odin-project-exercises/tree/master/ruby/data-structures-and-algorithms/knights_travails)
+* [James Brooks's solution](https://github.com/jhbrooks/knight-moves)
+* [Panashe Fundira's solution](https://github.com/munyari/odin/blob/master/learn-ruby/bfs_dfs/knight_shortest_path.rb)
+* [Matt Velez's solution](https://github.com/Timecrash/ruby-projects/blob/master/data-structures/knight_traversal.rb)
+* [Luke Walker's solution](https://github.com/ubershibs/ruby-programming/blob/master/algorithms/knight_moves.rb)
+* [Miguel Herrera's solution](https://github.com/migueloherrera/projects/blob/master/knights_travails.rb)
+* [Tomasz Kula's solution](https://github.com/zetsnotdead/Knights-Travails) including visual representation of the steps
+* [Max Gallant's solution](https://github.com/mcgalcode/Ruby/tree/master/DataStructures)
+* [Ricardo Villegas' solution](https://github.com/claricardo/RubyBuildingBlocks/blob/master/algorithms/knight_moves.rb)
+* [Jack Wilde's solution](https://github.com/WildeRunner/data_structures_projects)
+* [djhart's solution](https://github.com/djhart/knight_path)
 * Add your solution above this line!
-
 
 ## Additional Resources
 

@@ -13,6 +13,9 @@ Small tech startups value the ability to build and ship code above all else, so 
 ### A Day In the Life
 
 * [An interview with Zack Fisch of SpeakMe](http://1000hours.io/post/82536681454/interview-with-zack-fisch-of-speakme), a nontechnical founder looking to learn Rails to get in touch with his team.
+* [A Dev Life interview with Leah Culver](http://blog.fogcreek.com/dev-life-interview-with-leah-culver/) from Fog Creek's Blog
+* [I'm Cory Doctorow and This is How I Work](http://lifehacker.com/5993401/im-cory-doctorow-and-this-is-how-i-work) from Lifehacker
+* [I'm Jeff Atwood, Founder of Stack Exchange, and This is How I Work](http://lifehacker.com/5950386/im-jeff-atwood-founder-of-stack-exchange-and-this-is-how-i-work)
 
 *Do you work as a developer at one of these companies or know someone who does?  We'd love to find out what is "A Day in the Life Of...".  Please [email us](mailto:curriculum@theodinproject.com) if we can do a quick interview about it and post it here!*
 
@@ -44,3 +47,4 @@ Developers at web consultancies like Pivotal Labs, Thoughtbot, and ThoughtWorks 
 * [Your career in GIFs](http://net.tutsplus.com/articles/general/the-11-phases-of-a-web-developers-career-as-illustrated-by-memes/)
 * [A look at the new "Developer Evangelist" roles](http://thenextweb.com/dd/2012/06/03/a-day-in-the-life-of-a-developer-evangelist/)
 * [Salaries around the world from staff.com](http://www.staff.com/blog/it-jobs-with-the-highest-pay-and-fastest-growth-infographic/)
+* [Sam Lambert interview -- GitHub: Scaling on Ruby, with a nomadic tech team](https://medium.com/s-c-a-l-e/github-scaling-on-ruby-with-a-nomadic-tech-team-4db562b96dcd)

@@ -19,9 +19,9 @@ As a bonus, your Heroku know-how transfers to Node because they accept Node apps
 
 ## Your Assignment
 
-1. [Pick up the basics of Node in this quick tutorial from NetTuts](http://net.tutsplus.com/tutorials/javascript-ajax/node-js-for-beginners/)
-2. Read [Why I Chose Node.js Over Ruby on Rails by Sagi Isha](https://medium.com/what-i-learned-building/905b0d7d15c3)
-3. Read [Learn Node.js Completely from JSIS](http://javascriptissexy.com/learn-node-js-completely-and-with-confidence/)
+1. Read [Why I Chose Node.js Over Ruby on Rails by Sagi Isha](https://medium.com/what-i-learned-building/905b0d7d15c3)
+2. [Pick up the basics of Node in this quick tutorial from NetTuts](http://net.tutsplus.com/tutorials/javascript-ajax/node-js-for-beginners/)
+3. Dive in with a hands-on [tutorial in your terminal](https://github.com/workshopper/learnyounode)
 
 ## Additional Resources
 
@@ -35,3 +35,4 @@ As a bonus, your Heroku know-how transfers to Node because they accept Node apps
 * [Getting out of Callback Hell in Node.js](http://strongloop.com/strongblog/node-js-callback-hell-promises-generators/)
 * [Node for Rails Developers with Compound.js by Sagi Isha](https://medium.com/what-i-learned-building/e490fb9c0c73)
 * [HowToNode.org has lots of more advanced articles and tips](http://howtonode.org/)
+* [Your first Meteor(popular Node.js framework) application](http://meteortips.com/book/)
